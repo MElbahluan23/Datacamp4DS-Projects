@@ -1,1 +1,1 @@
-# DataCamp For Data Science-Projects
+# DataCamp For Data Science Projects
